@@ -7,7 +7,7 @@
 
 - Control variable: PWM signal (input power to the servo motor)
 
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48198017/116828484-5c341900-ab9f-11eb-8f81-12c3d81e1f7c.gif)
 
 
 
