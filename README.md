@@ -16,11 +16,9 @@ pulse width of the signal i.e., by varying the duty cycle of the signal.
 
 
 ![image](https://user-images.githubusercontent.com/48198017/116827022-47538780-ab97-11eb-937b-a11244539f2a.png)
-
 **Fig. 1:** Duty cycles corresponding to different arm positions
 
 
 ![image](https://user-images.githubusercontent.com/48198017/116827088-a87b5b00-ab97-11eb-9664-8ab407d63ba5.png "servo motor arm positions with respect to pulse width")
-
 **Fig. 2:** Servo motor arm positions with respect to pulse width
 
