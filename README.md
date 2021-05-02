@@ -7,6 +7,9 @@
 
 - Control variable: PWM signal (input power to the servo motor)
 
+https://user-images.githubusercontent.com/48198017/116828209-8be22180-ab9d-11eb-8fdd-9cf459ff9ce2.mp4
+
+
 ## Pulse width modulation working
 
 Pulse width modulation technique is used to control analogue devices by controlling the power delivered
