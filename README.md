@@ -16,5 +16,5 @@ insight into the specifics of pulse widths corresponding to different arm positi
 
 ![image](https://user-images.githubusercontent.com/48198017/116827022-47538780-ab97-11eb-937b-a11244539f2a.png "duty cycles for L,M,R positins of the motor arm")
 
-![image](https://user-images.githubusercontent.com/48198017/116827088-a87b5b00-ab97-11eb-9664-8ab407d63ba5.png, "servo motor arm positions with respect to pulse width")
+![image](https://user-images.githubusercontent.com/48198017/116827088-a87b5b00-ab97-11eb-9664-8ab407d63ba5.png "servo motor arm positions with respect to pulse width")
 
