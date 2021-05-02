@@ -64,4 +64,13 @@ by increasing the derivative gain. With a slight increase in Kd the stability of
 
 *Y = Proportional term + Integral term + Derivative term*
 
+## Software implementation
 
+The PID algorithm is implemented in the PID.c file. The proportional, Integral and derivative gain values
+are obtained through Human Machine Interface, hence not declared here.
+The local parameters are declared in void vPID() main. An infinite for loop is initiated inside which the
+PID algorithm is coded. the final PID output “yc” is written to xQueueSend() function.
+
+The graphical representation of the queues and tasks of the entire process:
+![image](https://user-images.githubusercontent.com/48198017/116827687-a666cb80-ab9a-11eb-98cf-bf68e3a78349.png)
+**Fig .3:** Sequence diagram
