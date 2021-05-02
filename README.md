@@ -31,7 +31,7 @@ is sent to the motor.
 
 ![image](https://user-images.githubusercontent.com/48198017/116827480-67844600-ab99-11eb-8669-5427693aa486.png)
 
-**Proportional gain** scales the error value e(t) by proportionally maintaining the size and conserving
+- **Proportional gain** scales the error value e(t) by proportionally maintaining the size and conserving
 the nature of the error (+/-). The proportional gain alone without the error multiplied to it does not
 provide proper control as the error´s size and nature are not considered.
 
@@ -41,7 +41,7 @@ compensated by a small increase in derivative gain.
 
 *Proportional term = proportional gain x error*
 
-**Integral gain** deals with the past errors where, it scales the sum of the previous errors and the integration
+- **Integral gain** deals with the past errors where, it scales the sum of the previous errors and the integration
 of which account for the Integral term. as the error keeps reducing the control effect of the
 proportional term reduces because it is proportional to the current error value, however, the Integral
 term compensates to this as its value keeps increasing over time. When the error is eliminated the
@@ -51,7 +51,7 @@ Steady state error can be eliminated by increasing the value of Integral gain, b
 
 *Integral term = Integral gain x accumulated error*
 
-**Derivative gain** scales the rate of change of error and forms the derivative term. the derivative term
+- **Derivative gain** scales the rate of change of error and forms the derivative term. the derivative term
 is the best way to predict the future error value following the trend of the change in error over time.
 The rapid the change, greater the controlling effect.
 
@@ -60,7 +60,7 @@ by increasing the derivative gain. With a slight increase in Kd the stability of
 
 *Derivative term = derivative gain x rate of change of error*
 
-the summation of all the above individual term results in the **final PID output**.
+- The summation of all the above individual term results in the **final PID output**.
 
 *Y = Proportional term + Integral term + Derivative term*
 
