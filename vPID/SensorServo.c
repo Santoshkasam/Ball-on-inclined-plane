@@ -2,7 +2,6 @@
  * SensorServo.c
  *
  * Created: 22.08.2011 17:15:59
- *  Author: operator
  */ 
 // Compiler includes
 #include <math.h>
