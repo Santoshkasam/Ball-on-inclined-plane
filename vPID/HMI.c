@@ -2,7 +2,6 @@
  * HMI.c
  *
  * Created: 10.08.2011 12:28:10
- *  Author: operator
  */
 // Compiler includes
 #include <avr/interrupt.h>
