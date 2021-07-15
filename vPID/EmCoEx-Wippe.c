@@ -2,7 +2,6 @@
  * EmCoEx_Wippe_v10.c
  *
  * Created: 28.07.2011 09:34:25
- *  Author: W.Lang
  */ 
 // Compiler includes
 #include <avr/io.h>
