@@ -2,7 +2,7 @@
  * PID.c
  *
  * Created: 10.08.1921 12:40:11
- *  Author: Henry Ford
+ *  Author: Santosh Kumar Kasam
  */ 
 // Compiler includes
 #include <math.h>
