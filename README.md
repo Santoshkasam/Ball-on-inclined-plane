@@ -20,7 +20,7 @@ pulse width of the signal i.e., by varying the duty cycle of the signal.
 
 
 ![image](https://user-images.githubusercontent.com/48198017/116827022-47538780-ab97-11eb-937b-a11244539f2a.png)
-                     **Fig. 1:** Duty cycles corresponding to different arm positions
+                     \n**Fig. 1:** Duty cycles corresponding to different arm positions
 
 
 ![image](https://user-images.githubusercontent.com/48198017/116827088-a87b5b00-ab97-11eb-9664-8ab407d63ba5.png "servo motor arm positions with respect to pulse width")
@@ -79,7 +79,7 @@ The graphical representation of the queues and tasks of the entire process:
 ![image](https://user-images.githubusercontent.com/48198017/116827687-a666cb80-ab9a-11eb-98cf-bf68e3a78349.png)
 **Fig .3:** Sequence diagram
 
-## Conclusions
+## Conclusion
 The stability of the ball is achieved below 10s and the actual PID values(tuned the theoretical PID values) are as follows.
 P = 0.3, I = 0.24, D = 0.26.
 
