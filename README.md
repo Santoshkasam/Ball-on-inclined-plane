@@ -1,4 +1,4 @@
-# Ball-on-inclined-plane
+# Ball on Inclined Llane
 **Project description**: A ball is balanced on an inclined plane through PID control with a servo motor as an actuator. The embedded-c control algorithm is developed in Atmel Studio 7 and implemented on the Atmega128 micro-controller, running on FreeRTOS.
 
 - Equipment: photo electric sensors, servo-motor, Atmega128 micro-controller, servo motor arm, plane with side walls and hollow plastic ball.
